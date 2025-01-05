@@ -28,9 +28,9 @@ Check out the live portal here:
 Check out the live preivews here:  
 https://eyalley.preview.softr.app/?autoUser=true&show-toolbar=true
 https://eyalley.preview.softr.app/?show-toolbar=true
-https://eyalley.preview.softr.app/?show-toolbar=true
 https://eyalley.preview.softr.app/student-directory?show-toolbar=true
 https://eyalley.preview.softr.app/courses?show-toolbar=true
+https://eyalley.preview.softr.app/results?show-toolbar=true
 
 
 ## Installation & Setup
